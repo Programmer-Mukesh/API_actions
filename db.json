@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "Robert Downey Jr",
+      "username": "Iron Man",
+      "email": "Stark@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Chris Evans",
+      "username": "Caption America",
+      "email": "Steve@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Scarlet Johanson",
+      "username": "Black Widow",
+      "email": "natasha@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Chris Hemsworth",
+      "username": "Thor",
+      "email": "asgard.prince@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Ben Afflec",
+      "username": "Batman",
+      "email": "wayne@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Henry Cavil",
+      "username": "Superman",
+      "email": "clark.kent@gmail.com",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
