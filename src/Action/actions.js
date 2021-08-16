@@ -16,7 +16,6 @@ export const userAdded = () => ({
 
 export const loadUsers = () => {
   return (dispatch) => {
-    dispatch(getUsers);
     axios
       .get(`http://localhost:5000/users/`)
       .then(({ data }) => {
